@@ -11,10 +11,12 @@ Le projet est actuellement en cours de développement et inclut les fonctionnali
 
 ### Versions pré-compilées
 
-Si vous souhaitez utiliser directement l'application sans passer par Unity, vous pouvez télécharger les versions pré-compilées :
+Si vous souhaitez utiliser directement l'application sans passer par Unity, vous pouvez télécharger les versions pré-compilées depuis Google Drive :
 
-- **Version PC** : disponible dans le dossier `Application Pc et Telephone/PC/`.
-- **Version APK pour Android** : disponible dans le dossier `Application Pc et Telephone/Android/`.
+- **Version PC et Version APK pour Android ** : (https://drive.google.com/file/d/1urZyS735Dyc2FHsomePuyQuaUL7YGBdF/view?usp=sharing)
+
+(Note : Assurez-vous de vérifier les dossiers appropriés après avoir téléchargé le fichier à partir de Google Drive pour les versions spécifiques de PC ou Android.)
+
 
 ## Configuration du projet dans Unity
 
